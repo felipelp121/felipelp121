@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Linkedin: https://www.linkedin.com/in/felipe-lopes-serra/
+<br><br>
+
 <h3>Portfólio</h3>
 <p>Sites que fiz: <p>
   <h4>Com Programação: </h4>
