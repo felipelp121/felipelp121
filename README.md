@@ -7,6 +7,7 @@ Linkedin: https://www.linkedin.com/in/felipe-lopes-serra/
 <p>Sites que fiz: <p>
   <h4>Com Programação: </h4>
   <p>Tag App: https://tag-app-felipe-lopes.surge.sh/</p>
+  <p>Permite cadastrar tags com informações que ao ser clicada é feito um CTRL + C automático da informação ali presente na tag<p>
   <p>Menu Mobile usando Less: http://felipe-menu-mobile-less.surge.sh/</p>
   <h4>Com Wordpress: </h4>
   <p>Amantes do Grão: https://amantesdograo.com.br/ </p>
