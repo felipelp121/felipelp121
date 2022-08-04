@@ -6,6 +6,7 @@ Linkedin: https://www.linkedin.com/in/felipe-lopes-serra/
 <h3>Portfólio</h3>
 <p>Sites que fiz: <p>
   <h4>Com Programação: </h4>
+  <br>
   <p>API de Pagamento, integração feita com a API do PagSeguro. Utilizei - Nodejs, Express, Typescript, Prisma, PostgreSQL e para autenticação de usuário: JWT e Bcrypt</p>
   <p>API de Pagamento: https://www.linkedin.com/posts/felipe-lopes-serra_nodejs-js-typescript-activity-6960337829826564096-83qJ?utm_source=linkedin_share&utm_medium=member_desktop_web </p>
   <br>
