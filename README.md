@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 Linkedin: https://www.linkedin.com/in/felipe-lopes-serra/
-<br>
 
+<!--
 <h3>Portfólio</h3>
 <p>Sites que fiz: <p>
   <h4>Com Programação: </h4>
@@ -21,7 +21,7 @@ Linkedin: https://www.linkedin.com/in/felipe-lopes-serra/
   <h4>Com Wordpress: </h4>
   <p>Amantes do Grão: https://amantesdograo.com.br/ </p>
   <p>Blog Mary: https://maryandradeee.com/</p>
-
+-->
 <!--
 **felipelp121/felipelp121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
